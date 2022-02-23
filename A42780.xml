@@ -1,0 +1,734 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The comforts of divine love Preach'd upon the occasion of the much lamented death of the reverend Mr. Timothy Manlove. With his character, done by another hand.</title>
+            <author>Gilpin, Richard, 1625-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42780</idno>
+            <idno type="STC">Wing G776</idno>
+            <idno type="STC">ESTC R216432</idno>
+            <idno type="EEBO-CITATION">99828163</idno>
+            <idno type="PROQUEST">99828163</idno>
+            <idno type="VID">32590</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42780)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32590)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1947:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The comforts of divine love Preach'd upon the occasion of the much lamented death of the reverend Mr. Timothy Manlove. With his character, done by another hand.</title>
+                  <author>Gilpin, Richard, 1625-1700.</author>
+               </titleStmt>
+               <extent>[8], 46 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Parkhurst at the Bible and Three Crowns in Cheapside near Mercers-Chapel. And Sarah Button bookseller at New-Castle upon Tyne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: Richard Gilpin.</note>
+                  <note>Ill. = engraved frontispiece.</note>
+                  <note>Running title reads: A sermon upon the death of Mr. Timothy Manlove.</note>
+                  <note>Reproduction of the original in Dr. Williams's Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Manlove, Timothy, d. 1699 --  Early works to 1800.</term>
+               <term>Funeral sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:32590:1"/>
+            <p>
+               <figure>
+                  <figDesc>engraved portrait of Timothy Manlove</figDesc>
+                  <head>TIMOTHEUS MANLOVE Med: licentiatus Divini animi nuncius, et interpres non ineligans Imortalitatis animae non ita pridem vindex Iam conscius August 3: <hi>Anno Dom<g ref="char:cmbAbbrStroke">̄</g>: 1699.</hi> Aetat vero: <hi>37</hi> Proematuro fato cessit</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:32590:1" rendition="simple:additions"/>
+            <p>THE COMFORTS OF <hi>Divine Love.</hi> Preach'd upon the Occaſion of the much Lamented DEATH Of the Reverend Mr. <hi>Timothy Manlove.</hi> With His Character, Done by another Hand.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide</hi> near <hi>Mercers</hi>-Chapel. And <hi>Sarah Button</hi> Bookſeller at <hi>New-Caſtle</hi> upon <hi>Tyne,</hi> 1700.</p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:32590:2"/>
+            <pb facs="tcp:32590:2"/>
+            <head>A Short Character of Mr. <hi>Timothy Manlove.</hi>
+            </head>
+            <p>HE was a Man of a fine Com<g ref="char:EOLhyphen"/>plection, and comely A<g ref="char:EOLhyphen"/>ſpect: Of pregnant Parts, and a ready Wit, which made his Con<g ref="char:EOLhyphen"/>verſation very pleaſant, and in<g ref="char:EOLhyphen"/>gaging.</p>
+            <p>He had a clear Head, and an admirable Capacity, and Skill to digeſt things in their proper, ex<g ref="char:EOLhyphen"/>acteſt Order. His Judgment was correct, and ſolid; his Memory ſtrong, and tenacious; his Inven<g ref="char:EOLhyphen"/>tion ſo fruitful and ready, as al<g ref="char:EOLhyphen"/>ways to furniſh him with a copi<g ref="char:EOLhyphen"/>ouſneſs of Words to expreſs him<g ref="char:EOLhyphen"/>ſelf by; and his Expreſſions were full and well Choſen.</p>
+            <pb facs="tcp:32590:3"/>
+            <p>He was conſiderable in his Learning, which he was impro<g ref="char:EOLhyphen"/>ving in daily.</p>
+            <p>Being deſigned for a Phyſician before he ſtudied Divinity, he had attained to a great Skill in the Niceties of that Art, and pra<g ref="char:EOLhyphen"/>ctiſed it with Eaſe, as well as Succeſs.</p>
+            <p>He was every way qualified as a Divine. He had all the Ac<g ref="char:EOLhyphen"/>compliſhments of a Preacher, and the Graces of Pulpit-Oratory: An excellent Mien, a free Elocution, an unaffected Gravity, and a be<g ref="char:EOLhyphen"/>coming Seriouſneſs; all which ſet off what he delivered with ve<g ref="char:EOLhyphen"/>ry great Ornament.</p>
+            <p>His Voice was clear, and regu<g ref="char:EOLhyphen"/>lar; ſtrong and lively, and exact<g ref="char:EOLhyphen"/>ly modell'd into a ſweet harmoni<g ref="char:EOLhyphen"/>ous Pronunciation: And as he
+<pb facs="tcp:32590:3"/>had the Voice of a Divine Char<g ref="char:EOLhyphen"/>mer, ſo he charmed wiſely. He did not amuſe his Hearers with a Train of Pompous Words, but e<g ref="char:EOLhyphen"/>dify'd them with plain, practical Diſcourſes, moſt ſuitable to the Noble Simplicity of the Goſpel.</p>
+            <p>He had a great Senſe of Reli<g ref="char:EOLhyphen"/>gion upon his Mind, and eſpeci<g ref="char:EOLhyphen"/>ally a compoſed, reverent, and heavenly Deportment in Prayer; in which his very Look, as well as Expreſſions, did excite to the moſt ſerious Devotion.</p>
+            <p>There never ſeemed to be a cloud, either upon his Thoughts, or Affections, in his Publick Exer<g ref="char:EOLhyphen"/>ciſes; He had flame and vigour to bear him out to the Laſt, and he rather choſe to leave off with Affection, than to proceed with Flatneſs.</p>
+            <pb facs="tcp:32590:4"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:32590:4"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:32590:5"/>
+            <p>The Laſt Day he appeared in Publick, he was obſerved in Pray<g ref="char:EOLhyphen"/>er to have the moſt profound Thoughts, and exalted Expreſſi<g ref="char:EOLhyphen"/>ons of the Divine Attributes; and in his Laſt Sermon, with the moſt affectionate ſacred Eloquence, he diſplayed the Happineſs of Hea<g ref="char:EOLhyphen"/>ven. Preaching (from <hi>Heb.</hi> 2.3.) upon the Doctrine of the Great Salvation that Chriſt came to declare to the World, which within a few Days after, he left his mournful Hearers to apply.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:32590:5"/>
+            <head>TO THE READER.</head>
+            <p>THE following Diſcourſe was Preached without the leaſt Thought of offering it to Pub<g ref="char:EOLhyphen"/>lick View: And yet I was perſwaded to yield to the Publication of it, to prevent the Printing of more imperfect Notes.</p>
+            <p>The Excellency of the Subject ſets it above all the ſuppoſed Ornaments of the Finery of Words or Rhetorick: The great thing that I minded in the Preaching it, was only to Repreſent it in plain Intelligi<g ref="char:EOLhyphen"/>ble Words. To have attempted any thing more, would have been a wrong to the Matter, which hath ſo great a Luſtre in it ſelf, that it needs to borrow nothing from Art. And if any thing of that had been offered, it would have had no better Suc<g ref="char:EOLhyphen"/>ceſs, then the laying the Dawbery of Paint upon a Reſplendent Diamond, which would
+<pb facs="tcp:32590:6"/>cloud and darken its Refulgent Bright<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>Now Reader, ſince thou haſt it in thy Hand, do not ſeek for that which was ne<g ref="char:EOLhyphen"/>ver intended Thee, but conſider ſeriouſly the Matter, and work it upon thy Heart, till thou be rooted and grounded in a deep Senſe of Gods Love, that ſo thou ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt be filled with Love to Him. This is a Subject worthy of thy Study, and hath in it ſuch admirable Variety, as will make it always Pleaſant without Wearineſs, and will alſo furniſh. Thee with a Cordial in thy deepeſt Spiritual Diſtreſſes. That this lit<g ref="char:EOLhyphen"/>tle Diſcourſe may be thus uſeful to Thee, is the Earneſt Prayer of</p>
+            <closer>
+               <signed>
+                  <hi>The unfeigned Deſirer of thy Spiritual Happineſs,</hi> R. Gilpin.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="sermon">
+            <pb n="1" facs="tcp:32590:6"/>
+            <head>SERMON I.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ROM. VIII. 35, 36, 37, 38, 39.</hi>
+                  </bibl>
+                  <p>Who ſhall ſeparate us from the Love of Chriſt? Shall tribulation, or diſtreſs, or perſecution, or famine, or nakedneſs, or peril, or ſword?</p>
+                  <p>(As it is written, For thy ſake we are killed all the Day long; we are account<g ref="char:EOLhyphen"/>ed as Sheep for the ſlaughter.)</p>
+                  <p>Nay in all things we are more than Con<g ref="char:EOLhyphen"/>querors, through him that loved us.</p>
+                  <p>For I am perſwaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things preſent, nor things to come,</p>
+                  <p>Nor heighth, nor depth, nor any other Creature, ſhall be able to ſeparate us from the love of God, which is in Chriſt Jeſus our Lord.</p>
+               </q>
+            </epigraph>
+            <p>MY laſt Diſcourſes to you, were an Explication of that great Command and Counſel of
+<pb n="2" facs="tcp:32590:7"/>our Bleſſed Lord Jeſus; <hi>Of ſtriving to enter in at the ſtrait Gate.</hi> In my Di<g ref="char:EOLhyphen"/>rections to you for your regular purſuit of this important Charge, among other things I recommended to you the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Paul</hi>'s Preſcription, <hi>Gal.</hi> 5.16. <hi>Walk in the Spirit, and ye ſhall not fulfil the Luſt of the Fleſh.</hi>
+            </p>
+            <p>It was my Purpoſe at this Time to have made a further Progreſs in that Matter, but having received an Intima<g ref="char:EOLhyphen"/>tion, that my dear Brother and Fellow. Labourer now Deceaſed; had found ſuch Comfort in his Meditations on this Scripture in his Proſpect of Death, that he expreſſed his Deſires, that his Fune<g ref="char:EOLhyphen"/>ral Sermon might be upon this Text: His pious Deſire (that others might <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e comforted with the Comfort where with he was comforted of God) prevailed with me (though upon a ſhort Warn<g ref="char:EOLhyphen"/>ing) to turn my Thoughts to this Scrip<g ref="char:EOLhyphen"/>ture, and the rather, becauſe (your Hearts being ſoftned by this mournful Providence) the Truth contained i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Text might poſſibly make the dee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>er Impreſſion upon you.</p>
+            <p>I cannot let you into the full Under<g ref="char:EOLhyphen"/>ſtanding
+<pb n="3" facs="tcp:32590:7"/>of the Apoſtles Triumphant Concluſion, except I lead you to the firſt Riſe and Head of it. In <hi>ver.</hi> 1. He give us the Conſequence of his for<g ref="char:EOLhyphen"/>mer Doctrine, he had largely aſſerted and proved in the foregoing Chapters, <hi>That we are juſtified by Grace, and freed from the Law.</hi> From theſe Truths he lays down this comfortable Concluſion as moſt evident and certain. <hi>There is therefore now no Condemnation to them which are in Chriſt Jeſus.</hi> This Conclu<g ref="char:EOLhyphen"/>ſion is full: <hi>No Condemnation,</hi> neither by God, nor Law, nor Conſcience; and it is univerſally true to <hi>all that are in Chriſt.</hi>
+            </p>
+            <p>But becauſe this Concluſion is the Corner-ſtone, and muſt ſuſtain the weight of all the ſuperſtructure, he firſt limits it to thoſe <hi>that are in Chriſt,</hi> and explains what he means by giving them their true Character. <hi>They walk not af<g ref="char:EOLhyphen"/>ter the Fleſh, but after the Spirit.</hi>
+            </p>
+            <p>Next he proves his Aſſertion, by its Parts. 1. That there is no Condem<g ref="char:EOLhyphen"/>nation to ſuch. This he argues in the Four following Verſes. His Argument is this, the condemning Law is ſuperſe<g ref="char:EOLhyphen"/>ded,
+<pb n="4" facs="tcp:32590:8"/>he grants there was a Covenant of Works, which being broken, was to us a Law of Sin and Death. It charged us with Sin, and that dueneſs of the Curſe. But then he ſhows there is ano<g ref="char:EOLhyphen"/>ther Law (which he calls a <hi>Law of the Spirit of Life</hi>) that is a Covenant of Grace, promiſing Life, as alſo the Aſſi<g ref="char:EOLhyphen"/>ſtance of the Spirit: And this Law be<g ref="char:EOLhyphen"/>ing a remedying Law ſets us free from the former.</p>
+            <p n="2">2. The Limitation and Character of the Perſons to whom this Freedom is li<g ref="char:EOLhyphen"/>mited, he proves and explains in the following Verſes, ſhewing that it muſt be the natural Genius and Temper of thoſe that are in Chriſt, to mind the things of the Spirit; as thoſe <hi>that are af<g ref="char:EOLhyphen"/>ter the Fleſh</hi> will naturally <hi>mind the things of the Fleſh,</hi> ver. 5.</p>
+            <p>From the great Love of God, and the ſure Foundation of it, he proceeds to make ſome Inferences, as 1. That then we are Debtors to God in point of Ho<g ref="char:EOLhyphen"/>lineſs, <hi>ver.</hi> 12. and in <hi>ver.</hi> 31. He heaps up many Inferences of Conſolation.</p>
+            <p n="1">1. That if God be thus engaged to be for us as our Father and Protector,
+<pb n="5" facs="tcp:32590:8"/>none can be againſt us to our hurt.</p>
+            <p n="2">2. He infers, that ſeeing God hath given us Chriſt, we may expect what ever ſhall be neceſſary for the Compleat<g ref="char:EOLhyphen"/>ment of our Happineſs.</p>
+            <p n="3">3. He infers, that the malicious or er<g ref="char:EOLhyphen"/>ronious Accuſations of Men, are of no Conſideration, <hi>ver.</hi> 33. <hi>Who ſhall lay any thing to the Charge of Gods Elect?</hi> Be<g ref="char:EOLhyphen"/>cauſe, 1. There is no Tribunal but Gods, and if he acquit us, 'tis no mat<g ref="char:EOLhyphen"/>ter who Condemns us. 2. Chriſt did all his Work of Redemption compleat<g ref="char:EOLhyphen"/>ly, <hi>ver.</hi> 34. Not only <hi>Dying,</hi> but <hi>Ri<g ref="char:EOLhyphen"/>ſing again to make Interceſſion for us.</hi>
+            </p>
+            <p n="4">4. Hence he infers in a Triumphant Aſſurance, the impoſſibility of our Se<g ref="char:EOLhyphen"/>paration from the Love of God, <hi>ver.</hi> 35. <hi>Who ſhall ſeparate us from the Love of God?</hi> &amp;c. That the Strength of this Inference may more fully appear, I ſhall diſtinctly Note theſe Particulars.</p>
+            <p n="1">1. The <hi>Subject</hi> ſpoken of, <hi>The Love of God.</hi> Whether it be God's Love to us, or our Love to God is queſtioned; ſome think both are intended, and that it is impoſſible that it ſhould fail on ei<g ref="char:EOLhyphen"/>ther Part. But ſurely Gods Love to us
+<pb n="6" facs="tcp:32590:9"/>is chiefly intended: For on our part in it ſelf it's too poſſible, that under ſuch Temptations our Love and Faith might fail. But the impoſſibility ariſeth from God's Will: He will not ſuffer our Love to fail. So that ultimately the not failing of our Love, is reſolved in<g ref="char:EOLhyphen"/>to Gods <hi>unchangeable Love.</hi> And beſide the Expreſſions of the laſt Verſe of this Chapter. <hi>The Love of God which is in Chriſt Jeſus our Lord,</hi> doth clearly Point at Gods Love to us.</p>
+            <p n="2">2. The next thing aſſerted is our <hi>Non-Separation</hi> from this Love. The Word in the <hi>Greek</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is the ſame Word that is uſed, <hi>Mat.</hi> 19.6. with reſpect to the <hi>Jewiſh</hi> Divorces. So that the mean<g ref="char:EOLhyphen"/>ing is, Though Gods Love may ſome<g ref="char:EOLhyphen"/>time be hidden, yet there will never be a Divorce or Eternal Separation.</p>
+            <p n="3">3. The <hi>Impoſſibility</hi> of this Separation appears in this Diſcourſe two Ways.</p>
+            <p n="1">1. By an Enumeration of thoſe things that might ſeem poſſible to effect a Sepa<g ref="char:EOLhyphen"/>ration, but cannot; theſe the Apoſtle ranges into Two Claſſes. 1. No <hi>kind</hi> or <hi>degrees</hi> of <hi>Sufferings.</hi> Here he reck<g ref="char:EOLhyphen"/>ons up ſeveral hard things. <hi>Shall tribu<g ref="char:EOLhyphen"/>lation,
+<pb n="7" facs="tcp:32590:9"/>diſtreſs,</hi> &amp;c? 2. No <hi>outward Powers.</hi> Neither fear of <hi>Death,</hi> nor hope of <hi>Life,</hi> nor Devils, nor perſecu<g ref="char:EOLhyphen"/>ting Rulers, nor <hi>heighth</hi> of Advance<g ref="char:EOLhyphen"/>ment, nor <hi>depth</hi> of Ignominy and Re<g ref="char:EOLhyphen"/>proaches; and leaſt any thing elſe ſhould be pretended, he adds, <hi>nor any other Creature,</hi> as an, <hi>&amp;c.</hi> including all.</p>
+            <p n="2">2. The Impoſſibility of this Separati<g ref="char:EOLhyphen"/>on is imply'd in his manner of ſpeaking by continued Interrogation, <hi>Who ſhall ſeparate?</hi> As alſo by his Aſſurance, <hi>I am perſwaded;</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> though it ſome<g ref="char:EOLhyphen"/>time ſignifie no more than a <hi>Moral Per<g ref="char:EOLhyphen"/>ſwaſion,</hi> yet here it ſignifies <hi>undoubted Aſſurance,</hi> like the Phraſe in <hi>Rom.</hi> 14.14. and 2 <hi>Tim.</hi> 2.12. <hi>I know and am perſwaded.</hi>
+            </p>
+            <p>The Doctrine I ſhall now draw out of theſe Words, is this;</p>
+            <p>
+               <hi>The Conſideration of the Infiniteneſs and <g ref="char:V">Ʋ</g>nchangeableneſs of God's Love, is ſufficient to guard our Hearts from all Affrightments, that may ariſe from all that may befal us in this World.</hi>
+            </p>
+            <pb n="8" facs="tcp:32590:10"/>
+            <p>To make way for the Application of this Truth, I ſhall explain and prove theſe Three Things.</p>
+            <p n="1">I. That God's Love to Elect Belie<g ref="char:EOLhyphen"/>vers is <hi>Infinite.</hi>
+            </p>
+            <p n="2">II. That this Love of God is <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>changeable.</hi>
+            </p>
+            <p n="3">III. That the Conſideration of Gods Infinite and Unchangeable Love, is a ſweet Cordial in all Diſtreſſes, and a Guard againſt all Affrightments of Fear, to all that are in Chriſt.</p>
+            <p n="1">I. That God's Love to Elect Believers is <hi>Infinite,</hi> admirably Great. All Gods Attributes, even thoſe that are called <hi>Communicable</hi> (ſuch as his Power, Wiſ<g ref="char:EOLhyphen"/>dom, Juſtice, Love, <hi>&amp;c.</hi>) are in God infinitely, eternally, and unchangea<g ref="char:EOLhyphen"/>bly. His Love therefore in Scripture is crowned with the Epithite [Great] <hi>His great Love wherewith he loved us,</hi> Eph. 2.4. His Love, his Power, his Underſtanding are commenſurate with his Infinite Greatneſs. Thus <hi>David</hi> ar<g ref="char:EOLhyphen"/>gues, <hi>Pſalm</hi> 147.5. <hi>Great is our Lord, and of great Power: his <g ref="char:V">Ʋ</g>nderſtanding is Infinite.</hi>
+            </p>
+            <p>But that we might have a more eaſie
+<pb n="9" facs="tcp:32590:10"/>Satisfaction and Apprehenſion of the Love of God, the Scripture commends the greatneſs of Gods Love to us, un<g ref="char:EOLhyphen"/>der Three Conſiderations.</p>
+            <p>The Firſt is by comparing the won<g ref="char:EOLhyphen"/>derful Greatneſs of God, with the Ob<g ref="char:EOLhyphen"/>ject of his Love. This Conſideration Holy <hi>David</hi> inſiſts on, <hi>Pſalm</hi> 113.4, 5. <hi>The Lord is high above all Nations, and his Glory above the Heavens: Who is like unto the Lord our God, who dwelleth on High?</hi> That is, He is ſo great, that his merciful regard of the higheſt crea<g ref="char:EOLhyphen"/>ted Beings, <hi>Things in Heaven,</hi> much more of the lower World, <hi>Things on Earth,</hi> is ſo far below his glorious Great<g ref="char:EOLhyphen"/>neſs, that it is a kind of abaſement to him to behold them, <hi>ver.</hi> 6. <hi>He hum<g ref="char:EOLhyphen"/>bleth himſelf, to behold the Things that are in Heaven, and in the Earth.</hi> He humbleth himſelf to behold theſe things that are ſo far below him. That would be a ſtrange unaccountable Love, that ſhould make a great Prince ſet his Heart upon a Worm or Fly, to regard, feed and watch over it; and we are as mean if compared to an Infinite God. <hi>The Nations are as the drop of a Bucket, or
+<pb n="10" facs="tcp:32590:11"/>the ſmall Duſt of the Ballance: They are counted to him as nothing, and if any thing can be lower, leſs than nothing,</hi> Iſa. 40.15, 17. <hi>The Inhabitants of the Earth, are but as Graſhoppers,</hi> ver. 22.</p>
+            <p>This Conſideration was <hi>David</hi>'s Me<g ref="char:EOLhyphen"/>ditation in <hi>Pſalm</hi> 8. when his Thoughts were upon the Wing, mounting up<g ref="char:EOLhyphen"/>ward toward the excellent Glory of the Divine Majeſty, he almoſt looſeth the ſight of Man. <hi>What is Man?</hi> v. 4. At laſt his Contemplation carries him to an Admiration of Gods Love and Care over ſo low a Creature. <hi>What is Man?</hi> But oh how great is God's Love in be<g ref="char:EOLhyphen"/>ing mindful of him, ſo as to viſit him! Which is further explained by <hi>Job</hi> 7.17. <hi>What is Man that thou ſhouldeſt mag<g ref="char:EOLhyphen"/>nifie him! That thou ſhouldeſt ſet thy Heart upon him! That thou ſhouldeſt viſit him every Morning!</hi> But if we ſhould place Man in an higher Degree, and conſider him as a Servant, yet ſtill Gods Love looſeth not its Luſtre, becauſe at beſt we are but <hi>unprofitable Servants,</hi> Luke 17.10. If we ſhould do all that we are commanded, we do but that which was our Duty to do, and which
+<pb n="11" facs="tcp:32590:11"/>we owe to God upon the Right of Crea<g ref="char:EOLhyphen"/>tion; yet we merit nothing. God hath no Advantage or Profit by our Service, <hi>Job</hi> 22.2, 3. <hi>Can a Man be profitable unto God? What gain is it to him that thou makeſt thy ways perfect.</hi>
+            </p>
+            <p>If Man at beſt be ſo far below the De<g ref="char:EOLhyphen"/>ſert of God's Love, How great will this Love appear, if we conſider Man as ſin<g ref="char:EOLhyphen"/>ful! Thus we are become Enemies, not only breakers of his Law, but oppoſite thereto, and withal were helpleſs, and could do nothing for our ſelves. Both theſe the Apoſtle takes Notice of, <hi>Rom.</hi> 5.6. as a tranſcendant Manifeſtation of God's Love; and <hi>ver.</hi> 8. God commend<g ref="char:EOLhyphen"/>eth his Love to us.</p>
+            <p n="2">2. The Scriptures ſet forth the great<g ref="char:EOLhyphen"/>neſs of Gods Love, by the great and wonderful Benefits beſtowed on us. We uſually meaſure Love by the Fruits of it. The Fruits of Gods Love can<g ref="char:EOLhyphen"/>not be numbred; particularly the Pro<g ref="char:EOLhyphen"/>miſes are ſo loaden with them, that they are juſtly called <hi>exceeding Great and Pre<g ref="char:EOLhyphen"/>cious Promiſes.</hi> In the groſs, <hi>They are things that pertain unto Life and Godli<g ref="char:EOLhyphen"/>neſs,</hi> 2 <hi>Pet.</hi> 1.3. <hi>All ſpiritual Bleſſings
+<pb n="12" facs="tcp:32590:12"/>in heavenly Places,</hi> Eph. 1.3. <hi>The Bleſ<g ref="char:EOLhyphen"/>ſings of this Life and that which is to come,</hi> 1 Tim. 4.8. All that is within the Circumference of <hi>Grace and Glory,</hi> Pſalm 84.11.</p>
+            <p n="3">3. But above all Gods Love is mag<g ref="char:EOLhyphen"/>nified by the Method, which his Infi<g ref="char:EOLhyphen"/>nite Wiſdom pitched upon for the bring<g ref="char:EOLhyphen"/>ing about his Purpoſe of Love; this was the ſending Chriſt to Die for Sinners. This was ſuch an adorable Myſtery of Wiſdom and Love, that the Angels de<g ref="char:EOLhyphen"/>ſire to look into it. Chriſt himſelf ſpeaks of it as tranſcendant beyond Compari<g ref="char:EOLhyphen"/>ſon. <hi>God ſo loved the World, that he ſent his only begotten Son,</hi> &amp;c. <hi>John</hi> 3.16. and in 1 <hi>John</hi> 4.9, 10. The Apo<g ref="char:EOLhyphen"/>ſtle repreſents it as the moſt glorious Publick Manifeſtation of Love. <hi>In this was manifeſted the Love of God towards us, becauſe that God ſent his only Son in<g ref="char:EOLhyphen"/>to the World. Herein is Love,</hi> &amp;c.</p>
+            <p n="2">II. The ſecond thing that I am to ex<g ref="char:EOLhyphen"/>plain and prove, is, That this Love of God is <hi>
+                  <g ref="char:V">Ʋ</g>nchangeable.</hi> It is frequently called an Everlaſting Love, <hi>Jer.</hi> 31.3. <hi>I have loved thee with an Everlaſting Love. His Mercy endureth for ever.
+<pb n="13" facs="tcp:32590:12"/>Having loved his own, he loved them un<g ref="char:EOLhyphen"/>to the end,</hi> John 13.1. And it muſt needs be ſo, if it be conſidered.</p>
+            <p n="1">1. That Gods <hi>Nature</hi> is Unchangea<g ref="char:EOLhyphen"/>ble. God aſſerts it, <hi>Mal.</hi> 3.6. <hi>I am the Lord, I change not.</hi> Pſalm 102.25, 26. <hi>The Heavens and the Earth ſhall periſh, but thou ſhalt endure. Thou art the ſame, and thy Years ſhall have no end.</hi> James 1.17. <hi>With God is no variableneſs, nei<g ref="char:EOLhyphen"/>ther ſhadow of Turning.</hi>
+            </p>
+            <p>The Unchangeableneſs of Gods Na<g ref="char:EOLhyphen"/>ture is evident by the very Light of Reaſon. All that believe the Exiſtence of God, will yield, that <hi>Deus eſt ens ne<g ref="char:EOLhyphen"/>ceſſarium &amp; Independens.</hi> God is a ne<g ref="char:EOLhyphen"/>ceſſary and Independant Being. That God is Self-exiſtent is an Original and Fundamental Idea, which we are to have of God. This Monſieur <hi>Abbadie</hi> proves in his <hi>Vindication of the Chriſtian Religion,</hi> Sect. 2. <hi>Cap.</hi> 2. And from this neceſſity of his Being, he deduceth his <hi>Immutability.</hi> For if God depend not upon any other Being, nor receive any thing from any other Being, his Eſſence cannot then be varied. And if his Na<g ref="char:EOLhyphen"/>ture is Unchangeable, his <hi>Will</hi> is alſo
+<pb n="14" facs="tcp:32590:13"/>Unchangeable. It is true, God doth ſometime change his Promiſes and Threatnings, but his Purpoſes he chan<g ref="char:EOLhyphen"/>geth not. <hi>Mutat Sententiam ſed non Decretum.</hi> Men uſually change their declared Purpoſes, becauſe all Men are Liers, and ſo break their Promiſes; or they Promiſe without due Conſiderati<g ref="char:EOLhyphen"/>on, and when any thing happens which they foreſaw not, they repent. But it cannot be thus with God. <hi>My Counſel ſhall ſtand, I have purpoſed it, I will al<g ref="char:EOLhyphen"/>ſo do it,</hi> Iſa. 49.10, 11. The Reaſon of this we have in <hi>Numb.</hi> 23.19. <hi>God is not a Man that he ſhould lie, neither the Son of Man, that he ſhould repent.</hi>
+            </p>
+            <p n="2">2. That Gods Love is Unchangea<g ref="char:EOLhyphen"/>ble will further appear, if we conſider that his Love is bottomed upon a cer<g ref="char:EOLhyphen"/>tain Foundation, <hi>His own free Purpoſe, and Chriſts Purchaſe.</hi> This Reaſon the Apoſtle doth not obſcurely ſuggeſt in the Text, <hi>None can ſeparate us from Gods Love,</hi> becauſe it is a Love to us in <hi>Chriſt Jeſus our Lord.</hi> Had it been built upon the ſandy Foundation of our Merit, we might have feared the failure of it upon every miſcarriage or failure of Duty.</p>
+            <pb n="15" facs="tcp:32590:13"/>
+            <p n="3">III. The Third Thing to be explain<g ref="char:EOLhyphen"/>ed is, That the Conſideration of Gods Infinite and Unchangeable Love is a ſweet Cordial in all Diſtreſſes, and a Guard againſt all Affrightments of Fear to all thoſe that are in Chriſt. For,</p>
+            <p n="1">1. Thoſe that are in Chriſt being <hi>re<g ref="char:EOLhyphen"/>conciled</hi> and <hi>pardoned,</hi> may be aſſured, that however God may change his Coun<g ref="char:EOLhyphen"/>tenance toward them, yet he will not change his Heart. He may be angry, but Anger and Love are conſiſtent. All Men may be convinced of this. Pa<g ref="char:EOLhyphen"/>rents may be angry with their Children, and yet love them. It is true, that Pa<g ref="char:EOLhyphen"/>rental Corrections will be grievous to in<g ref="char:EOLhyphen"/>genuous Children, they will mourn un<g ref="char:EOLhyphen"/>der them; and thus God's Anger will be an heavy Burden to his Children, as their Complaints and Sorrows do abun<g ref="char:EOLhyphen"/>dantly Witneſs. Yet God would have us to conſider his Love in his Rod, <hi>Heb.</hi> 12.6. <hi>Whom the Lord loveth he chaſten<g ref="char:EOLhyphen"/>eth.</hi> To be without Chaſtiſement is an Evidence, that we are Baſtards, and not Sons. God may be angry but he never changeth his Love into hatred.</p>
+            <p n="2">2. The greateſt outward Afflictions
+<pb n="16" facs="tcp:32590:14"/>are ſo managed by God, that if we could duely obſerve his dealings with us, we might perceive his Love inter<g ref="char:EOLhyphen"/>mixed with the Laſhes of his Rod. All the while he manifeſts a fatherly Pity and Compaſſion. Fury is not in him. He hath a gentle Hand to the weak: He remembers their Mold and Faſhion. They have alſo ſecret Supports and ſea<g ref="char:EOLhyphen"/>ſonable Deliverances.</p>
+            <p n="3">3. All theſe Diſtreſſes are ſo far from ſeparating his Children from his Love that as he orders them, they Work to<g ref="char:EOLhyphen"/>gether for their good. Their Graces are hereby exerciſed, encreaſed, and made bright, as your Veſſels are by ſcouring. So that their Diſtreſſes <hi>yield the peaceable Fruits of Righteouſneſs to thoſe that are exerciſed thereby,</hi> Heb. 12.11. They are hereby brought into nearer Communion with God; and at laſt, he lifts up the Light of his Countenance upon them, like clear ſhining after Rain.</p>
+            <p n="4">4. It is further evident, that all out<g ref="char:EOLhyphen"/>ward Troubles cannot ſeparate them from the Love of God, becauſe he doth evidently ſtrengthen their Hearts under
+<pb n="17" facs="tcp:32590:14"/>them, ſo that they prevail not to draw them off from God. This Argument the Apoſtle fixeth on a Demonſtration of what he had aſſerted, <hi>In all theſe things we are more than Conquerors.</hi> It's a glorious Victory to ſtand in an Evil Day, when Satan hath drawn up all his Forces againſt us: 'Tis a glorious Victory not only to eſcape without Loſs, but to gain by his Oppoſition; thus we out-ſhoot him in his own Bow. And all this, <hi>ſine Labore &amp; Sudore,</hi> eaſily through Divine Aſſiſtance.</p>
+            <p n="5">5. All theſe Troubles do not ſo much as render us leſs Lovely in Gods Eyes. God is not as Man; Men judge often by outward Appearance, Gods Chil<g ref="char:EOLhyphen"/>dren are often blackened with falſe Ac<g ref="char:EOLhyphen"/>cuſations and Reproaches; but God will not judge them according to Men's Miſrepreſentations. You have a clear inſtance of it in that Scripture which hath been ſo much abuſed. <hi>He hath not beheld Iniquity in Jacob, neither hath be ſeen perverſneſs in Iſrael.</hi> The mean<g ref="char:EOLhyphen"/>ing is not, that the Omniſcient God doth not ſee, or that an Holy God can<g ref="char:EOLhyphen"/>not be angry at the Tranſgreſſions of
+<pb n="18" facs="tcp:32590:15"/>his People. But thus we are to under<g ref="char:EOLhyphen"/>ſtand it. <hi>Balaam</hi> was upon a Deſign of curſing <hi>Iſrael, Balak</hi> would have re<g ref="char:EOLhyphen"/>preſented them as a Company of Rob<g ref="char:EOLhyphen"/>bers, that came to deſtroy and invade a Country that was not their own, but being not able to prevail, he gives this for a Reaſon, That God would not judge of them as they had repreſented them, nor deal with them according to their Deſires and Condemnation.</p>
+            <p n="6">6. The Conſideration of Gods Love, hath a Power in it to ſweeten our great<g ref="char:EOLhyphen"/>eſt Afflictions, and to take out the ſting and venom out of the worſt of out Troubles. If we have Gods Love, we have more than all the World can give us, it will counter-ballance all Trou<g ref="char:EOLhyphen"/>bles, and make up all Loſſes of out<g ref="char:EOLhyphen"/>ward Comforts.</p>
+            <p>Having explained theſe three Thing, I ſhall conclude with ſome Applicato<g ref="char:EOLhyphen"/>ry Inferences ſuitable to the preſent mournful Occaſion. As,</p>
+            <p n="1">1. If the Love of God be ſuch a Cordial and Guard, let it be our great endeavour to get an Intereſt in this Love. This is the one thing neceſſary. If
+<pb n="19" facs="tcp:32590:15"/>any ask, How muſt this be done? I ſhall only tell them, they muſt ſeek to be in Chriſt. The firſt Application of this Love is made in Converſion, though Gods Purpoſe of loving was before. Yet we were Children of Wrath, till God by Converſion, and the new Birth tranſlate us from the Power of Darkneſs to the Kingdom of his Dear Son, then and not till then is Gods gracious Pur<g ref="char:EOLhyphen"/>poſe brought into Act.</p>
+            <p n="2">2. Let us adore, admire and medi<g ref="char:EOLhyphen"/>tate upon Gods Infinite Unchangeable Love. And this not only in General, but in a Particular Application of it to our ſelves, as the Apoſtle, <hi>Gal.</hi> 2.20. <hi>Who loved me, and gave himſelf for me.</hi>
+            </p>
+            <p n="3">3. 'Tis moſt natural to infer from Gods great Love to us, That it is our Duty, and ſhould be our Care, <hi>To walk worthy of the Lord unto all pleaſing,</hi> Col. 1.10.</p>
+            <p n="4">4. If the Love of God be ſo great a Cordial and Guard againſt our Fears, we ſhould make uſe of it as ſuch, and oppoſe our Fears by the Conſideration of it. This was <hi>David</hi>'s Shield and Buckler on all ſuch Occaſions, <hi>Pſalm</hi>
+               <pb n="20" facs="tcp:32590:16"/>23.4. He reſolves againſt his greateſt Fears in a confident Reliance on Gods Love and Preſence. <hi>Though I walk through the Valley of the ſhadow of Death, I will fear no Evil, for thou art with me.</hi> Yea in Troubles that carry the appea<g ref="char:EOLhyphen"/>rance of Gods Chaſtiſements, he is re<g ref="char:EOLhyphen"/>lieved by the Apprehenſion of Gods Love, <hi>Pſalm</hi> 49.5, 15. <hi>Wherefore ſhould I fear in the Days of Evil, when the Ini<g ref="char:EOLhyphen"/>quity of my heels ſhall compaſs me about.</hi> For <hi>God will redeem my Soul from the Power of the Grave.</hi>
+            </p>
+            <p n="5">5. Let us not mourn as thoſe that have no Hope, for the Death of God<g ref="char:EOLhyphen"/>ly Perſons. They Die in Gods Love and Death is ſo far from ſeparating them from the Love of God; that it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gods Porter to open the Door of Eter<g ref="char:EOLhyphen"/>nity to them, and ſo to give them a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> immediate entrance into the full Enjoy<g ref="char:EOLhyphen"/>ment of his Love. When Death hath done its worſt, they that enter into Reſt go off with Triumph. <hi>O Death where is thy Sting? O Grave where is thy Vi<g ref="char:EOLhyphen"/>ctory?</hi>
+            </p>
+            <p n="6">6. This may be a Caution againſt the uſual Preſumptions of Men, who
+<pb n="21" facs="tcp:32590:16"/>are apt to be too bold in interpreting Gods Providences in the Death of his Servants. They are too ſawcy and bold with God, when they take upon them to aſſign a Reaſon, why God takes any of his Servants out of the World, and ſo determine what Gods Deſign is in ſo doing.</p>
+            <p>It hath pleaſed God Almighty, and the All-wiſe Diſpoſer of all things to make another Breach upon us. 'Tis not long ſince he took Mr. <hi>Pell</hi> from us, and now he hath called home Mr. <hi>Manlove,</hi> both of them excellent Men, worthy Miniſters of the Goſpel, ſingu<g ref="char:EOLhyphen"/>larly (both of them) fitted with Abi<g ref="char:EOLhyphen"/>lities for their Work. They were ſuc<g ref="char:EOLhyphen"/>ceſſively my Dear Brethren, and Fel<g ref="char:EOLhyphen"/>low-Labourers in this Part of Gods Vineyard. It muſt be acknowledged, that it is a ſtroke to be lamented; and if we look upon the preſent Providence, we may have ſome Cauſe to fear, that when God is diſcharging his Servants from his Work, and paying them their Wages, That he may ſhortly break up his Houſe with us.</p>
+            <p>Let none rejoyce at it, nor ſay, <hi>Aha
+<pb n="22" facs="tcp:32590:17"/>ſo would we have it.</hi> Neither ſhould others Deſpond: <hi>Who knows the end of the Lord?</hi> 'Tis eaſie for him to make up our loſs, if we ſubmiſſively wait for him. If his Love be unchangeable to ſingle Perſons, we may conclude it will be ſo to faithful Churches. There are I hope many of you that hear me, that can ſtand forth and Witneſs, that you have ſeen his Power and Glory in his Sanctuary: You have felt and taſted the Power and Goodneſs of God in your Converſion, quickning and Comforting in his Ordinances in this Place: And I hope, that Chriſt who delights to walk among his Golden Candleſticks, will not now ſeparate us from his Love, nor remove the Candleſtick out of its Place.</p>
+         </div>
+         <div n="2" type="sermon">
+            <pb n="23" facs="tcp:32590:17"/>
+            <head>SERMON II.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ROM. VIII. 35, 36, 37, 38, 39.</hi>
+                  </bibl>
+                  <p>Who ſhall ſeparate us from the Love of Chriſt? Shall tribulation, or diſtreſs, or perſecution, or famine, or nakedneſs, or peril, or ſword?</p>
+                  <p>(As it is written, For thy ſake we are killed all the Day long; we are account<g ref="char:EOLhyphen"/>ed as Sheep for the ſlaughter.)</p>
+                  <p>Nay in all things we are more than Con<g ref="char:EOLhyphen"/>querors, through him that loved us.</p>
+                  <p>For I am perſwaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things preſent, nor things to come,</p>
+                  <p>Nor heighth, nor depth, nor any other Creature, ſhall be able to ſeparate us from the love of God, which is in Chriſt Jeſus our Lord.</p>
+               </q>
+            </epigraph>
+            <p>THIS Scripture I opened to you the Laſt Day upon a ſpecial Oc<g ref="char:EOLhyphen"/>caſion, which I then acquainted you
+<pb n="24" facs="tcp:32590:18"/>withal. That Diſcourſe had the better Part of that Entertainment which the Apoſtle <hi>Paul</hi>'s had at <hi>Athens,</hi> Acts 17.32. I have not heard nor believe that any here had ſuch ſlight Thoughts of <hi>Gods Love</hi> to Man, as to mock at the Diſcourſe; yet I have met with ſome that deſire to <hi>hear again of that Matter.</hi>
+            </p>
+            <p>I need not repeat what hath been ſpoken. But becauſe the Love of God is a noble Subject, and ſo vaſily large, that our Thoughts cannot reach it to any ſuitable Comprehenſion, nor can our Tongues expreſs the <hi>Breadth, Length, Depth and Heighth of it,</hi> Eph. 3.17. So that when we have ſaid all we can, there is ſtill Matter for more: I ſhall now add ſomething to what was ſpoken, which was the leſs becauſe I was forced to be ſhort, to give Room for the Funeral which waited our At<g ref="char:EOLhyphen"/>tendance upon it.</p>
+            <p>All that I ſhall now add ſhall be</p>
+            <p n="1">I. To ſpeak ſomething in General of the Love of God.</p>
+            <p n="2">II. To ſet before you the wonderful Priviledges and Advantages, that flow in upon us from the Fountain of Di<g ref="char:EOLhyphen"/>vine Love. And then,</p>
+            <pb n="25" facs="tcp:32590:18"/>
+            <p n="3">III. To recommend the Contempla<g ref="char:EOLhyphen"/>tion of Gods Love to you, that your Thoughts may be taken up with the Wonders of it.</p>
+            <p n="1">I. In <hi>General,</hi> the Love of God is not a meer <hi>Quality</hi> in God, but his very <hi>Eſſence. God is Love,</hi> 1 John 4.8. This Love in God is a neceſſary reſult of his Goodneſs, which is his very Na<g ref="char:EOLhyphen"/>ture. There is none <hi>Eſſentially, Abſo<g ref="char:EOLhyphen"/>lutely,</hi> and <hi>Perfectly Good but God,</hi> Mat. 19.17. This Goodneſs God lets forth to all Creatures, yet not with an Equality; but ſo as might beſt ſhew forth his Sove<g ref="char:EOLhyphen"/>raignty in doing with his own as he pleaſed: And his Wiſdom in adorning the World with a beautiful variety of Creatures, of differing Perfections ac<g ref="char:EOLhyphen"/>cording to their different Kinds and U<g ref="char:EOLhyphen"/>ſes. Hence it is uſual to diſtinguiſh the Goodneſs of God into</p>
+            <p>Firſt, <hi>A General Goodneſs</hi> to all Crea<g ref="char:EOLhyphen"/>tures. All that he Created he ſaw was <hi>very Good.</hi> And ever ſince he is good to all, and his <hi>Mercy is over all his Works. His Mercy is in the Heavens.</hi> Angels ſhare in it, <hi>Pſalm</hi> 36.5. And extends over all the Earth, <hi>He preſerveth Man and Beaſt,</hi> ver. 6.</p>
+            <pb n="26" facs="tcp:32590:19"/>
+            <p>Secondly, <hi>A Special Goodneſs</hi> to Man. Though he be little, if compared with the Infinite Perfections of the glorious God, that it is a Wonder that <hi>God ſhould be mindful of him,</hi> Pſalm 8.4. Much more that <hi>he ſhould magnifie him,</hi> Job 7.17. Yet is he ſo exalted above all his Fellow-Creatures of the Inferiour World, that he is made but <hi>a little low<g ref="char:EOLhyphen"/>er than the Angels,</hi> and <hi>Lord of the Works of his Hands,</hi> ver. 5, 6. of <hi>Pſalm</hi> 8. Nor hath God left himſelf without a Witneſs of his ſingular Care and Pro<g ref="char:EOLhyphen"/>vidence over him, in that he doth good, and gives us Rain and fruitful Seaſons, filling our Hearts with Food and Glad<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>Thirdly, <hi>There is a moſt ſpecial Good<g ref="char:EOLhyphen"/>neſs</hi> to his choſen Servants, which <hi>Da<g ref="char:EOLhyphen"/>vid</hi> in Contradiſtinction to the two for<g ref="char:EOLhyphen"/>mer calls <hi>Loving Kindneſs; How excel<g ref="char:EOLhyphen"/>lent is thy Loving Kindneſs,</hi> Pſal. 36.7. This moſt ſpecial Goodneſs is called <hi>Love,</hi> which being underſtood in a moſt ſpecial Senſe, differs from that common Goodneſs which God imparts to his Creatures, in that it ſignifies Gods ſpecial Delight and readineſs to com<g ref="char:EOLhyphen"/>municate
+<pb n="27" facs="tcp:32590:19"/>and unite himſelf to the Ob<g ref="char:EOLhyphen"/>ject Loved. Though this Love hath not properly different Degrees in God, for none of his glorious Attributes ad<g ref="char:EOLhyphen"/>mit of a more or leſs, yet the Scriptures give us leave to make a Diſtinction in Compliance to the weakneſs of our Underſtandings. So that uſually the Love of God is ſaid to be Threefold.</p>
+            <p n="1">1. A Love of <hi>Benevolence,</hi> Gods E<g ref="char:EOLhyphen"/>ternal Good Will; this Chriſt ſpeaks of <hi>John</hi> 3.16. <hi>God ſo loved the World,</hi> &amp;c. And this is there ſpoken of, as Antece<g ref="char:EOLhyphen"/>dent to his giving Chriſt, and as a Cauſe of it. This Text is perplexed with Controverſie, becauſe of the ge<g ref="char:EOLhyphen"/>neral Word [the World] which ſome labour to ſtretch ſo as to comprehend every Man. But avoiding the Contro<g ref="char:EOLhyphen"/>verſie, we may underſtand the Text thus, God ſo pitied loſt Mankind, <hi>Gen<g ref="char:EOLhyphen"/>tiles</hi> as well as <hi>Jews,</hi> that he would not that all ſhould periſh, but that a Com<g ref="char:EOLhyphen"/>munity, a World of Elect ones ſhould through Faith in Chriſt obtain Everla<g ref="char:EOLhyphen"/>ſting Life.</p>
+            <p n="2">2. A Love of <hi>Beneficence,</hi> which ſig<g ref="char:EOLhyphen"/>nifies the Acts of Love brought forth in
+<pb n="28" facs="tcp:32590:20"/>Time, after we had a Being, in purſu<g ref="char:EOLhyphen"/>ance of his Eternal Purpoſe and Good Will. Thus Chriſts Death, our Juſtifi<g ref="char:EOLhyphen"/>cation and Sanctification are the Mani<g ref="char:EOLhyphen"/>feſtation and Application of his Love, and called ſo, <hi>Eph.</hi> 5.25. <hi>Rev.</hi> 1.5.</p>
+            <p n="3">3. A Love of <hi>Complacency,</hi> by which God rejoyceth over thoſe that are in his Way and Method brought home to Chriſt. This is fully expreſſed in <hi>John</hi> 14.21, 23. Beſides the Love of Bene<g ref="char:EOLhyphen"/>volence, My Father, and I will mani<g ref="char:EOLhyphen"/>feſt a more intimate Love and kind Fa<g ref="char:EOLhyphen"/>miliarity.</p>
+            <p>Though I purpoſely avoided the ab<g ref="char:EOLhyphen"/>ſtruſe and difficult Queſtions about Gods Love, yet theſe Diſtinctions are neceſ<g ref="char:EOLhyphen"/>ſary for the anſwering ſome Objections which might ariſe in your Hearts about the Unchangeableneſs of Gods Love. The Love of Complacency and Benefi<g ref="char:EOLhyphen"/>cence admits of Variations, of leſs or more; being but Manifeſtations and E<g ref="char:EOLhyphen"/>manations of Divine Love upon us, when yet his Love of Benevolence is the ſame.</p>
+            <p n="2">II. The next thing I promiſed, was a further account of the <hi>Priviledges</hi> and
+<pb n="29" facs="tcp:32590:20"/>
+               <hi>Advantages</hi> which accrew to us by the Love of God, which are ſo great and numerous, that I cannot reckon them up in order to you. I muſt take up with that of <hi>David,</hi> Pſalm 40.5, 6. <hi>Thy Thoughts to us-ward, cannot be rec<g ref="char:EOLhyphen"/>koned up in order unto thee: If I would declare and ſpeak of them, they are more than can be numbred.</hi>
+            </p>
+            <p>I will therefore in this Matter cloſely follow the Footſteps of thoſe two great Apoſtles, the great Admirers and Preach<g ref="char:EOLhyphen"/>ers of Gods Love. The Apoſtle <hi>John</hi> in 1 <hi>John</hi> 3.1. reduces all the Privi<g ref="char:EOLhyphen"/>ledges of Love to this one, <hi>That we ſhould be called,</hi> that is, have Power and Right to be, <hi>the Sons of God,</hi> as <hi>John</hi> 1.12. This if rightly ſtudied, will appear to be ſo great a Love as cannot be fully expreſſed, but to be left to Ad<g ref="char:EOLhyphen"/>miration; <hi>Behold what manner of Love the Father hath beſtowed upon us!</hi>
+            </p>
+            <p>The Apoſtle <hi>Paul</hi> in this Eighth Chapter of the <hi>Romans,</hi> doth as it were Comment upon, and explain that of, 1 <hi>John</hi> 3. in purſuit of that grand Con<g ref="char:EOLhyphen"/>cluſion, <hi>Rom.</hi> 8.1. <hi>There is therefore now no Condemnation to them which are
+<pb n="30" facs="tcp:32590:21"/>in Chriſt Jeſus.</hi> That the Odours of this precious Oyntment might be fur<g ref="char:EOLhyphen"/>ther diffuſed for the Refreſhment of all that are in Chriſt (which he deſcribes by the Power and Influence of the Ho<g ref="char:EOLhyphen"/>ly Spirit over them) he ſets himſelf to declare the Priviledges of ſuch, and fixeth firſt upon our Sonſhip; <hi>ver.</hi> 12. As the Apoſtle <hi>John</hi> did, but he endea<g ref="char:EOLhyphen"/>vours a more particular Enumeration of our Priviledges, yet ſo that he re<g ref="char:EOLhyphen"/>duceth them all to this of our being the Children of God. The Advantages which he inſiſts upon, ariſing from this grand Priviledge, are Three.</p>
+            <p>
+               <hi>Firſt,</hi> If we are Sons, we partake of the <hi>Spirit</hi> of our Father, and this we do ſeveral Ways;</p>
+            <p n="1">1. We are <hi>Led</hi> by the Spirit, <hi>ver.</hi> 14. Whether we read the Verſe backward or forward it holds true, <hi>As many as are led by the Spirit, are the Sons of God.</hi> And <hi>as many as are the Sons of God</hi> have been, and ſhall ſtill be <hi>led by the Spirit.</hi> Let us take in this Conſideration toge<g ref="char:EOLhyphen"/>ther with that of Sonſhip; and then ſay, Oh! What manner of Love is this, that we who were afar off, both in re<g ref="char:EOLhyphen"/>ſpect
+<pb n="31" facs="tcp:32590:21"/>of ſinful Indiſpoſition and Enmi<g ref="char:EOLhyphen"/>ty, ſhould be made ſo near, as to be<g ref="char:EOLhyphen"/>come Children! That we ſhould be changed in the Spirit of our Mind! That we ſhould by the Spirits leading, Teaching and Influence, be made con<g ref="char:EOLhyphen"/>formable to the Image of Chriſt, and ſo be made Partakers of a Divine Na<g ref="char:EOLhyphen"/>ture, and ſhould have the Spirit (by whom we were wrought up to this ve<g ref="char:EOLhyphen"/>ry thing) to be our conſtant Tutor and Guide!</p>
+            <p n="2">2. By the Spirit another Advantage is given, <hi>ver.</hi> 15. The Spirit is to us a <hi>Spirit of Adoption,</hi> that is, a childlike Diſpoſition, to Love God, to depend upon him with a child-like Truſt and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onfidence, and in an humble boldneſs <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd freedom, being made Children; God would not have us to Act under a <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aviſh Principle of Fear, which is a Spirit of Bondage, but by a free and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngenuous Love.</p>
+            <p n="3">3. The Spirit is alſo a <hi>Spirit of Wit<g ref="char:EOLhyphen"/>neſs</hi> and Aſſurance, <hi>ver.</hi> 16. <hi>The Spirit <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſelf beareth Witneſs with our Spirit, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t we are the Children of God.</hi> It is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eceſſary that Children ſhould know
+<pb n="32" facs="tcp:32590:22"/>their Father, it conduceth much to their Comfort and Government. This the Apoſtle urgeth upon the youngeſt Chriſtians, as their Priviledge and Ad<g ref="char:EOLhyphen"/>vantage, 1 <hi>John</hi> 2.13. <hi>I write unto yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> little Children, becauſe ye have known th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Father.</hi> The Spirit aſſiſts the Witneſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of our Conſcience, clears our Doub<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and gives comfortable Satisfaction Theſe Advantages we have by the Spi<g ref="char:EOLhyphen"/>rit, and all theſe are neceſſarily contain<g ref="char:EOLhyphen"/>ed in the Priviledge of Sonſhip.</p>
+            <p>
+               <hi>Secondly,</hi> Another Advantage by th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Priviledge of Sonſhip is noted, <hi>ver.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>If Children, then Heirs.</hi> The ſame Lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that makes us Children, provides an <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> heritance for us: This Inheritance <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Apoſtle magnifies, 1. As <hi>Glorious</hi> at<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Great;</hi> ſo Glorious, that though <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> muſt ſuffer as Chriſt did, before <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come to the full Poſſeſſion, yet the Gl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ry of that Inheritance is ſo great, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Sufferings are never to be mention<g ref="char:EOLhyphen"/>ed, <hi>nor compared to the Glory that is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be revealed,</hi> ver. 18.2. Becauſe th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Certainty</hi> of that Inheritance, adds <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſmall Luſtre to the Glory of it. Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Apoſtle ſhews us, that the Children <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="33" facs="tcp:32590:22"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have a full Certainty of it, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> live and rejoice in the Conſtant <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Comfortable Expectation of it.</p>
+            <p n="1">1. Not only by an Argumentation <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>awn from our preſent Preſſures and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lictions, for ſo the whole Creation <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aneth and expecteth a Freedom, <hi>ver.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 22. But,</p>
+            <p n="2">2. We have the Pledge, and Earneſt, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Firſt-Fruits of it already, <hi>ver.</hi> 23. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,</p>
+            <p n="3">3. The Spirit helps forward and <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>vens our Hopes, <hi>We groan within <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſelves;</hi> and to help us further, our <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>pes are ſtronger by the Spirits Aſſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e in our Prayers.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> By directing us to the <hi>Matter</hi> fit <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> prayed for. <hi>We know not what we <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pray for as we ought,</hi> we are not <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>petent Judges of what is fit for us.</p>
+            <p>By exciting our <hi>Deſires</hi> to an ear<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſs, even <hi>groanings that cannot be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> which is the Spirits Interceſſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> us, <hi>ver.</hi> 26. So that by our Pray<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> our Hopes are confirmed; our De<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> come from himſelf, he knows and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them, and returneth the Anſwer <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Prayers in inward Strength and
+<pb n="34" facs="tcp:32590:23"/>Conſolation, <hi>ver.</hi> 27. <hi>He that ſearcheth the Heart, knoweth what is the Mind of the Spirit, becauſe he maketh Interceſſion for the Saints, according to the Will of God.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> Another Advantage of Son<g ref="char:EOLhyphen"/>ſhip is alſo mentioned, <hi>ver.</hi> 28. <hi>All things ſhall Work together for Good.</hi> Children expect Good, and not Hu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from Parents: So our Sonſhip aſſur<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> us, that whatever Troubles or Diſtreſ<g ref="char:EOLhyphen"/>ſes we may meet with, they ſhall at la<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by Gods over-ruling Diſpoſal, Wo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> out our Advantage. Oh what mann<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Love is this, that we ſhould be ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Children of God! We have the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by the Gift of the Spirit, to lead an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> teach us, until Chriſt be formed in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and as a conſtant Guide of our Way And hereby alſo we have free aceeſs <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, and Dependance on him: <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have alſo the comfortable Witneſs <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Intereſt in Divine Love, and F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ture Happineſs in the Enjoyment <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God: And by the ſame Spirit we hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Taſte of Heaven on Earth, rej<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cing in the Hope of the Glory of God<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and in the mean time our Troubles be come our ſpiritual Advantage.</p>
+            <pb n="35" facs="tcp:32590:23"/>
+            <p>I now take hold on the Opportuni<g ref="char:EOLhyphen"/>ty, which theſe Conſiderations offer me to urge you to a ſerious Contemplati<g ref="char:EOLhyphen"/>on of Gods Love to us. Let your Thoughts be taken up with the Won<g ref="char:EOLhyphen"/>ders of Divine Love.</p>
+            <p n="1">1. You will find that all the Saints that have exerciſed their Thoughts up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this Subject, have run themſelves in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Wonder; and when they have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought and ſpoken all they could, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have left the Reſt to ſilent Admi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion. This you may obſerve in our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſed Apoſtle in <hi>ver.</hi> 31. of this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghth Chapter. <hi>What ſhall we then <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>to theſe Things?</hi> It is not only an <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ontroulable Certainty that he means, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o can contradict or ſay ought againſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe things? But an Expreſſion of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccountable vaſtneſs of the Matter, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch exceeded his Thoughts and Ut<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ance. What Tongue, what Words <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fully declare his Love?</p>
+            <p>The Apoſtle <hi>John</hi> expreſſeth a tran<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rt of Admiration in theſe Words, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn</hi> 3.1. <hi>Behold what manner of Love <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Father hath beſtowed upon us!</hi> There <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>othing among Men that can be liken<g ref="char:EOLhyphen"/>ed
+<pb n="36" facs="tcp:32590:24"/>unto it; if that Priviledge and the Perſons upon whom it is beſtowed be conſidered. For <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> who were Rebels and Enemies in our Minds by wicked Works, to be made <hi>Sons!</hi> Is this the manner of Men? <hi>Saul</hi> was convinced of <hi>Davids</hi> great Love to him by this Con<g ref="char:EOLhyphen"/>ſideration, 1 <hi>Sam.</hi> 24.19. <hi>If a Man find his Enemy, will he let him go well away?</hi> It is not uſual for Men ſo to do; but much leſs uſual is it for Men to heap kindneſſes upon Enemies. God's Love to us, far exceeds all that can be found among Men. <hi>David</hi> in <hi>Pſalm</hi> 36. find ſome dark Reſemblances whereby to er<g ref="char:EOLhyphen"/>preſs the extent of Gods Mercy an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Faithfulneſs. They are as high a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Heaven, <hi>ver.</hi> 5. <hi>Thy Mercy is in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Heavens; and thy Faithfulneſs reache<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> unto the Clouds.</hi> ver. 6. <hi>Thy Righteouſ<g ref="char:EOLhyphen"/>neſs is like the great Mountains; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Judgments are a great Deep.</hi> But whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he comes to ſpeak of Love, he finds <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> above Compariſon, and ſpeaks of it a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an unexpreſſible Excellency, <hi>ver.</hi> 7. <hi>How excellent is thy Loving Kindneſs. O God!</hi>
+            </p>
+            <pb n="37" facs="tcp:32590:24"/>
+            <p n="2">2. Leaſt ſome ſhould imagine that ſuch Expreſſions of Admiration, are only the high flights of ſome peculiar Favourites, and that Chriſtians of the common Rank are not much concern<g ref="char:EOLhyphen"/>ed herein, becauſe it may ſeem to be above their reach; I ſhall in a few plain Interrogations ſuggeſt to you ſome Things in Gods Love, which will appear to be wonderful to all.</p>
+            <p>
+               <hi>Firſt,</hi> Who can tell the <hi>Firſt ſpring</hi> of Love in God? What Extrinſical Motive could poſſibly have a bending influence upon the Divine Will? <hi>Who <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uth been his Counſellor?</hi> Or who could oblige him by any Gift? <hi>Rom.</hi> 11.34.</p>
+            <p>
+               <hi>Secondly,</hi> Who can give an Account of <hi>Diſcriminating</hi> Love? Why was <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> loved, and not <hi>Eſau?</hi> The Apo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>le reſolves it, <hi>Rom.</hi> 11.33. <hi>O the depth of the Riches, both of the Wiſdom and Knowledge of God!</hi> Is it not a wonder that God ſhould provide a Sa<g ref="char:EOLhyphen"/>viour for fallen Man, and none for faln Angels, and yet they were more noble Creatures.</p>
+            <p>
+               <hi>Thirdly,</hi> Who can bound the <hi>Extent</hi> of Divine Love? None but he that
+<pb n="38" facs="tcp:32590:25"/>hath ſet bounds to the Ocean, which it ſhall not paſs. Who knows the Ex<g ref="char:EOLhyphen"/>tent of it, 1. As to <hi>Perſons,</hi> that ſhall be ſaved by it? How great will be the General Aſſembly and Church of the Firſt-born? The Rays of the Sun are not ſcattered by viſiting a multitude of Objects, no more is Gods Love leſſen<g ref="char:EOLhyphen"/>ed by having Mercy upon many. 2. Who can bound the Love of God, as to the <hi>Conditions</hi> of thoſe that ſhall be ſaved. God doth not fix his choice to the Wiſe, Great or Noble Perſons, 1 <hi>Cor.</hi> 1.26. <hi>Not many Wiſe Men after the Fleſh, not many Mighty, not many Noble are called.</hi> But being no Reſpe<g ref="char:EOLhyphen"/>cter of Perſons, he gives his Love to the moſt unlikely, and contrarily qua<g ref="char:EOLhyphen"/>lified, ſometimes to the greateſt of Sin<g ref="char:EOLhyphen"/>ners, to Perſecuters: Thus <hi>Paul</hi> reckons himſelf a <hi>Pattern to them which ſhould afterward believe,</hi> 1 Tim. 1.16.</p>
+            <p>
+               <hi>Fourthly,</hi> Who can reckon up all the ſeveral <hi>Benefits</hi> of Love? Adoption, Juſtification, Sanctification, and Eter<g ref="char:EOLhyphen"/>nal Life, are frequently mentioned: But who can number his other Thoughts of Love to us-ward? <hi>Pſalm</hi> 139.17.
+<pb n="39" facs="tcp:32590:25"/>
+               <hi>How Great is the Sum of them! If I ſhould count them, they are more in number than the Sand.</hi> Who can give an account of his Gracious Viſits, his Tokens of Love, his particular anſwers of Prayers, his ſecret Strengthnings and Revivings? They that have endeavoured to compaſs and deſcribe the whole Globe of Di<g ref="char:EOLhyphen"/>vine Love, muſt leave vaſt ſpaces upon which they muſt write, <hi>Terra Incog<g ref="char:EOLhyphen"/>nita.</hi>
+            </p>
+            <p>
+               <hi>Fifthly,</hi> Who can give a true <hi>Eſtimate</hi> of Gods Love? It far ſurpaſſeth all out<g ref="char:EOLhyphen"/>ward Comforts. Life, and the Con<g ref="char:EOLhyphen"/>tentments of it, is the chief of outward Comforts. But <hi>Gods Loving Kindneſs is better than Life,</hi> Pſalm 63.3. It is above what our Senſes can inform us of, 1 <hi>Cor.</hi> 2.9. <hi>Eye hath not ſeen, Ear hath not heard, neither hath entered into the Heart of Man, the things that God hath prepared for them that Love him.</hi> What we have received already of the firſt Fruits of this Love, will ſhew that what is to come is a great Felicity. But we cannot from all that know fully what thoſe Pleaſures are that are at Gods right Hand for evermore, 1 <hi>John</hi>
+               <pb n="40" facs="tcp:32590:26"/>3.2. <hi>It doth not yet appear what we ſhall be.</hi>
+            </p>
+            <p n="3">3. I ſhall add, That though we can<g ref="char:EOLhyphen"/>not fully comprehend what is the <hi>Breadth,</hi> and <hi>Length,</hi> and <hi>Depth,</hi> and <hi>Heighth</hi> of his Love which <hi>paſſeth Know<g ref="char:EOLhyphen"/>ledge,</hi> Eph. 3.18. Yet it is the <hi>Duty,</hi> and will be ſtill the <hi>Advantage</hi> of all Saints to endeavour to poſſeſs their. Hearts deeply with a rooted and ground<g ref="char:EOLhyphen"/>ed Senſe of Gods Love: This is the A<g ref="char:EOLhyphen"/>poſtle's Prayer for the <hi>Epheſians,</hi> and the Duty of all, <hi>That they may be able to comprehend with all Saints,</hi> ver. 18.</p>
+            <p>That it is our Duty will appear by the Advantages, which will follow up<g ref="char:EOLhyphen"/>on our endeavour: Some of the chief I ſhall enumerate. As,</p>
+            <p>
+               <hi>Firſt,</hi> The Senſe of Gods Love will make us <hi>Thankful.</hi> Thankfulneſs is a natural return to great and undeſerved Favours: The Heart being filled with this fulneſs of Gods Love, will find it ſelf ſtraitened till it give it ſelf eaſe by venting it ſelf in Praiſe, <hi>Pſalm</hi> 116.12. <hi>What ſhall I render unto the Lord for all his Benefit, towards me?</hi>
+            </p>
+            <pb n="41" facs="tcp:32590:26"/>
+            <p>
+               <hi>Secondly,</hi> It will make us <hi>Humble.</hi> The Glory of Divine Love will beget Self-Reflections upon our Unworthi<g ref="char:EOLhyphen"/>neſs: So it did with <hi>David,</hi> when God had promiſed him many Bleſſings by <hi>Nathan.</hi> See how he leſſens himſelf, 2. <hi>Sam.</hi> 7.18. <hi>Who am I, O Lord God? <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d what is my Houſe, that thou haſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ought me hitherto?</hi> Undeſerved Love <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>akes an Ingenuous Spirit to take ſhame <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it ſelf for former misbehaviour. When Gods Love to <hi>Ephraim</hi> had turn<g ref="char:EOLhyphen"/>ed him to Repentance, and ſo to Peace, he ſaw his former Miſcarriages were <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preſent Reproach; this aſhamed and unfounded him, <hi>Jer.</hi> 31.19. <hi>Ezek.</hi> 16.63.</p>
+            <p>
+               <hi>Thirdly,</hi> A Senſe of Gods Love hath a ſpecial engaging and exciting Force <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon us to <hi>Obedience.</hi> It doth not on<g ref="char:EOLhyphen"/>ly oblige us, and make us Debters, as <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om.</hi> 8.12. But by a powerful Inclina<g ref="char:EOLhyphen"/>tion, it doth moſt ſtrongly move and incline. Fear of Wrath is a ſtrong Compulſive, and we need it; but Love draws more effectually, becauſe it be<g ref="char:EOLhyphen"/>gets a delight to do the Will of God; and becauſe <hi>Cords of Love are the Bands
+<pb n="42" facs="tcp:32590:27"/>of a Man,</hi> Hoſ. 11.4. Such obliging kindneſs as beſt ſuits a Man of Reaſon and Ingenuity.</p>
+            <p>
+               <hi>Fourthly,</hi> Senſe of Love will mightily ſtrength and encourage us againſt all <hi>Sufferings.</hi> Love makes every thing eaſie. This was the Strength and Con<g ref="char:EOLhyphen"/>rage of all the Worthies mentioned a <hi>Heb.</hi> 11. This bore out all the Marty<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in all Perſecutions.</p>
+            <p>
+               <hi>Fifthly,</hi> Senſe of Love is that which gives ſweetneſs to all <hi>Temporal Bleſſing<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> Riches, Honour, Peace, if they be no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> given in Love, may be our great<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Plagues, and will afford no Satisfact<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>on. Divine Love expreſſed in the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> like the Philoſophers Stone, change their Nature, and turns our rejoicing in them to a rejoicing in God.</p>
+            <p>
+               <hi>Sixthly,</hi> Senſe of Gods Love lead us to a <hi>Delighting in God.</hi> This <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one of the great Duties recommended t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us, <hi>Pſalm</hi> 37.4. The Particulars of the Advice given there, are all founded up<g ref="char:EOLhyphen"/>on the different Dealings of God with the Godly and Wicked, the Sum where<g ref="char:EOLhyphen"/>of is this: That God hath a peculiar loving Regard to Godly Men, as to
+<pb n="43" facs="tcp:32590:27"/>vindicate them, <hi>ver.</hi> 6. To bleſs their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>njoyments, <hi>ver.</hi> 16. To ſhelter them againſt Calamities, <hi>ver.</hi> 19. To direct their ſteps, <hi>ver.</hi> 23. If God delighteth in his Love to us, we ſhould delight our ſelves in Love to Him.</p>
+            <p>The Contemplation of Gods Love <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill afford us ſweet Thoughts. Love in is own Nature is a ſweet Subject of Me<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itation, affording Deſire, Delight and by; and like a Plentiful Spring of Li<g ref="char:EOLhyphen"/>ving Waters which can never be exhau<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, it will furniſh us with ſuch varie<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Matter, that we ſhall have no oc<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſion to be weary of the Purſuit. Gods <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>houghts of Love will ſtill be <hi>Precious,</hi> ſalm 139.17.</p>
+            <p>Men can delight themſelves in Works of curious Art and Contrivance, in Works of Nature much more: With what delightful Diligence have ſome <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en ſtudied the wonderful Contrivance of the Humane Body, yea even of Worms and Flies? Others fill them<g ref="char:EOLhyphen"/>ſelves with Admiration in ſtudying the great Globe of Heaven and Earth, and with Pleaſure obſerve the Perfection of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eatures, as fitted for their Ends and U<g ref="char:EOLhyphen"/>ſes,
+<pb n="44" facs="tcp:32590:28"/>and the ſubſerviency of them for the Beauty and Eſtabliſhment of the Uni<g ref="char:EOLhyphen"/>verſe, according to the Appointment of the Glorious and Wiſe Creator: And why then ſhould not Chriſtians make <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Pleaſure to ſtudy the Infinite Lov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of God? This is more eſpecially o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Concern, and will be the Delight Work and Joy of Heaven to Eternity.</p>
+            <p>
+               <hi>Seventhly,</hi> Senſe of Gods Love as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is the greateſt Cordial in all <hi>Diſtreſſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſo it is the greateſt Guard againſt a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Affrightments of Fear.</hi> The Children of God are exerciſed with Fears fre<g ref="char:EOLhyphen"/>quently, but there are two ſpecial Af<g ref="char:EOLhyphen"/>frightments againſt which the Apoſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> advanceth the Triumphant Aſſurance of the Text.</p>
+            <p n="1">1. The Firſt great Affrightment that afflicted Chriſtians are diſtreſſed with is, That their Tribulations and Diſtreſ<g ref="char:EOLhyphen"/>ſes are Argument of <hi>Wrath.</hi> Thus they are ready to conclude, If God had lo<g ref="char:EOLhyphen"/>ved us, would he have done thus unto us? This is too frequent: Trouble brings Sin to Remembrance; and a trembling Heart fears the worſt: Thus Holy <hi>David</hi> diſcovered his Fear, <hi>Pſal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="45" facs="tcp:32590:28"/>6.1. <hi>O Lord rebuke me not in thine An<g ref="char:EOLhyphen"/>ger, neither chaſten me in thy hot diſplea<g ref="char:EOLhyphen"/>ſure.</hi>
+            </p>
+            <p>But a due Conſideration of Gods Love will remove this Affrightment, in that none of theſe things are undoubted Characteriſtical Marks of Gods Hatred; they are no part of the damning Curſe, but an humbling mark ſet upon us for our Tryal and Exerciſe, after all the damning Part was removed. Hence the Apoſtle, 1 <hi>Tim.</hi> 2.15. ſpeaking of the Woman who had a particular mark of Diſpleaſure ſet upon her, tells us, <hi>She may be ſaved — notwithſtanding her ſorrowful Child-bearing.</hi> And in this place, the Apoſtle takes away this fear, by telling us, <hi>In all ſuch things we are more than Conquerors.</hi>
+            </p>
+            <p n="2">2. The Second Affrightment is, That theſe Diſtreſſes might tempt us to <hi>turn</hi> off from God and Holineſs; and this might ſeparate us from the Love of God. This Affrightment is removed, by the Conſideration that our ſtanding is bot<g ref="char:EOLhyphen"/>tomed upon Gods Unchangeable Love. It is poſſible enough for us and our Graces to fail, if we had not a greater
+<pb n="46" facs="tcp:32590:29"/>Strength than our own to bear <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> So ſure is Gods Foundation, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will take care for Perſeverance. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great Affrightment, which is too <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nary with the Timerous, <hi>Ah I <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall fall and miſcarry at laſt,</hi> is, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſweetly anſwered, <hi>If it was Gods <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> that wrought up your Heart to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him, it will keep you, that you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not depart from him.</p>
+            <p>
+               <hi>Eighthly,</hi> Senſe of Gods Love to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will be a means to kindle and ſtir <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>our Love to God.</hi> We Love him, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cauſe he loved us. Love begets Lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> If God hath ſo loved us? Let us <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deavour to Love Him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
